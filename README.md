@@ -1,2 +1,2 @@
 # Orbit-click
-autoclicker opensource good
+autoclicker open source good
